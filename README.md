@@ -1,2 +1,2 @@
 # Hack App Data
-Hack App Data is a free Android™ tools app with the last version updated by SteelWorks original developer.
+The perfect android app to hack any game/application in your device.
